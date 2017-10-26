@@ -1,0 +1,26 @@
+aa	aa_3_low	aa_3_cap	num	pi	pka1	pka2	volume	hydrophobicity	class
+A	Ala	ALA	1	6.01	2.35	9.87	67	1.8	1
+C	Cys	CYS	3	5.05	1.92	10.70	86	2.5	1
+D	Asp	ASP	4	2.85	1.99	9.90	91	-3.5	0
+E	Glu	GLU	5	3.15	2.10	9.47	109	-3.5	0
+F	Phe	PHE	6	5.49	2.20	9.31	135	2.8	1
+G	Gly	GLY	7	6.06	2.35	9.78	48	-0.4	1
+H	His	HIS	8	7.60	1.80	9.33	118	-3.2	3
+I	Ile	ILE	9	6.05	2.32	9.76	124	4.5	1
+K	Lys	LYS	11	9.60	2.16	9.06	135	-3.9	3
+L	Leu	LEU	12	6.01	2.33	9.74	124	3.8	1
+M	Met	MET	13	5.74	2.13	9.28	124	1.9	1
+N	Asn	ASN	14	5.41	2.14	8.72	96	-3.5	2
+O   Pyl PYL
+P	Pro	PRO	16	6.30	1.95	10.64	90	-1.6	1
+Q	Gln	GLN	17	5.65	2.17	9.13	114	-3.5	2
+R	Arg	ARG	18	10.76	1.82	8.99	148	-4.5	3
+S	Ser	SER	19	5.68	2.19	9.21	73	-0.8	1
+T	Thr	THR	20	5.60	2.09	9.10	93	-0.7	2
+U   Sec SEC 21  5.47    1.91    10.00   100 2.5 1
+V	Val	VAL	22	6.00	2.39	9.74	105	4.2	1
+W	Trp	TRP	23	5.89	2.46	9.41	163	-0.9	1
+Y	Tyr	TYR	25	5.64	2.20	9.21	141	-1.3	1
+X	Unk	UNK 	0.		0.		0.		0.	0.	0
+B	Asx ASX 										
+Z	Glx													
